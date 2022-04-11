@@ -1,0 +1,6 @@
+subnetName,address,zone,subnet_type,usage_type
+devops-edu-t1,10.0.10.0/24,KR-1,PUBLIC,GEN
+devops-edu-t2,10.0.20.0/24,KR-1,PRIVATE,GEN
+devops-edu-t3,10.0.30.0/24,KR-1,PRIVATE,GEN
+devops-edu-lb-t1,10.0.11.0/24,KR-1,PRIVATE,LOADB
+devops-edu-lb-t2,10.0.21.0/24,KR-1,PRIVATE,LOADB

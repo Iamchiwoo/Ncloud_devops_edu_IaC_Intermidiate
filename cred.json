@@ -1,0 +1,7 @@
+{
+    "accesId": "<your-access-key-id>",
+    "secret": "<yout-secret-key>",
+    "region" : "KR",
+    "site" : "public",
+    "support_vpc" : "true"
+}
